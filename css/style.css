@@ -1,0 +1,33 @@
+.img{
+	position: relative;
+	background-image: url("../img/img1.webp");
+	background-repeat: no-repeat;
+    background-size: cover;
+	height: 700px;
+}
+
+
+.jumbotronwimg{
+	background-image: url("../img/img7.webp");
+
+}
+
+#secondimg{
+	background-image: url("../img/img5.webp");
+	border-style: solid;
+	border-radius: 2px;
+	height: 200px;
+}
+
+
+.bg-color{
+    font-family:  American Typewriter, serif;
+    color: #d4d9d6;
+    background-color: #383d3a;
+}
+
+.footer-bg{
+    font-family:  American Typewriter, serif;
+    color: #d4d9d6;
+    background-color: #2d302e;
+}
