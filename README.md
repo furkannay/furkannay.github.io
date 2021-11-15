@@ -6,7 +6,7 @@
 # FORMULA 1 LANDING PAGE
 
 
-> Link: [Sample-Page](https://osmanyasir.github.io/)
+
 
 This is a sample responsive webpage including several sections, buttons and etc.
 ### Below are some screen shots from the web-page;
